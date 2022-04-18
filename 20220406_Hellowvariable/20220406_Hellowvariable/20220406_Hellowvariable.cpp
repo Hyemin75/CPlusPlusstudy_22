@@ -664,10 +664,10 @@ int main()
   for (int h = 1; h < 4; h++)
       for (int j = 1; j < 10; j++)
           for (k = 3 * h - 2; k < 3 * h  1; k++ )
-      {
+          {
           cout << h << " 단" << endl;
           cout << h << " * " << j << " = " << h * j << endl;
-  }
+          }
 
 
 
